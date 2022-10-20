@@ -1,4 +1,6 @@
 # smsboom
+# Pro testing is OK
+
 
 Usage: smsboom.exe [OPTIONS] COMMAND [ARGS]...
 
@@ -6,8 +8,8 @@ Options:
   --help  Show this message and exit.
 
 ### Commands:
--  asyncrun  以最快的方式请求接口(真异步百万并发)
--  onerun    单线程(测试使用)
--  run       传入线程数和手机号启动轰炸,支持多手机号
+-asyncrun :requests interfaces in the fastest way (true asynchronous million concurrency)
+-onerun :single thread (for testing)
+-run :the number of incoming threads and mobile phone numbers to start bombing, and support multiple mobile phone numbers
 
-[release](http://example.com)
+[release](https://github.com/ZhuJD-China/smsboom/releases/tag/smsboom-API-V1.0)
