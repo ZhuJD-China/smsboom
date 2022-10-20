@@ -1,5 +1,5 @@
 # smsboom
-# Pro testing is OK
+# API Pro testing is OK
 
 
 Usage: smsboom.exe [OPTIONS] COMMAND [ARGS]...
